@@ -27,7 +27,7 @@
 
 <details class="custom-details">
   <summary>+ Expand</summary>
-  <iframe src="https://www.nobelprize.org/uploads/2024/12/usaid-alternatives.pdf" width="100%" height="1000px" style="border:none;"></iframe>
+  <iframe src="pdfs/usaid-alternatives.pdf" width="100%" height="1000px" style="border:none;"></iframe>
   <blockquote style="border-left: 4px solid #ccc; padding-left: 10px; color: #555;">
     <em>
       <details>
